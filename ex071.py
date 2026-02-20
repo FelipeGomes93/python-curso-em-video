@@ -22,4 +22,4 @@ while True:
             céd = 1
         totalcéd = 0
         if total == 0:
-            break
+            break 
