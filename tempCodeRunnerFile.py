@@ -1,1 +1,1 @@
-frase.replace('Python', 'Android')
+pessoa.copy()
